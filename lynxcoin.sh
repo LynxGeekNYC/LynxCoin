@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set variables
-REPO_URL="https://github.com/bitcoin/bitcoin.git"
+REPO_URL="https://github.com/lynxgeeknyc/lynxcoin.git"
 NEW_NAME="LynxCoin"
 TOTAL_SUPPLY=10000000000
 INITIAL_BLOCK_REWARD=50
